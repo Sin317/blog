@@ -103,7 +103,7 @@ a. Track Market Trends:
 | Expense Ratio (S&P 500) |     0.015%  (FXAIX)   |     0.04% (VFIAX), 0.03% (VOO)            |  0.02% (SWPPX)       |
 |                         |          |                |          |
 
-![](../../public/Fund_comparison.png)
+![](../../static/Fund_comparison.png)
 
 # Things to Consider before selecting the fund
  1) Who runs the fund and how long have they been at the helm. What other funds do they run? 
