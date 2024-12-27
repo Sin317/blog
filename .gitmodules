@@ -1,0 +1,7 @@
+[submodule "khushiblog/themes/PaperMod"]
+	path = khushiblog/themes/PaperMod
+	url = https://github.com/adityatelange/hugo-PaperMod.git
+[submodule "khushiblog/public"]
+	path = khushiblog/public
+	url = https://github.com/Sin317/sin317.github.io.git
+	branch = main
